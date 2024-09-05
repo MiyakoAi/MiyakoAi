@@ -1,3 +1,4 @@
+![logo](https://github.com/MiyakoAi/MiyakoAi/blob/main/FImiSnqX0AAuS0o.jpeg)
 <h1 align="center">Hello World, I am Miyako</h1>
 <h3 align="center">lazy Proggrammer</h3>
 
