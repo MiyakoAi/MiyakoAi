@@ -1,4 +1,4 @@
-![logo](https://github.com/MiyakoAi/MiyakoAi/blob/main/FImiSnqX0AAuS0o.jpeg)
+![logo](https://github.com/MiyakoAi/MiyakoAi/blob/main/marin_kitagawa_banner_by_shirotxt_dg2duu9-fullview.jpg)
 <h1 align="center">Hello World, I am Miyako</h1>
 <h3 align="center">lazy Proggrammer</h3>
 
