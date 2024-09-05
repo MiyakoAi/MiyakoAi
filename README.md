@@ -2,7 +2,7 @@
 <h1 align="center">Hello World, I am Miyako</h1>
 <h3 align="center">lazy Proggrammer</h3>
 
-<img align="right" alt="coding" width="280" src="https://media.istockphoto.com/id/1368359704/vector/sloth-programmer-working-on-laptop.jpg?s=612x612&w=0&k=20&c=icsryoqq8AcqKgHMw4TbVBtaZ3uZGQrD-VA_ZXlwT2g=" />
+<img align="right" alt="coding" width="200" src="https://media.istockphoto.com/id/1368359704/vector/sloth-programmer-working-on-laptop.jpg?s=612x612&w=0&k=20&c=icsryoqq8AcqKgHMw4TbVBtaZ3uZGQrD-VA_ZXlwT2g=" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyakoai&label=Profile%20views&color=0e75b6&style=flat" alt="miyakoai" /> </p>
 
