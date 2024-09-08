@@ -1,12 +1,17 @@
-![logo](https://github.com/MiyakoAi/MiyakoAi/blob/main/Project%20Sekai%20ENG%20(Unofficial)%20on%20Twitter.jpeg)
+
+<p align="center">
+  <img src="https://github.com/MiyakoAi/MiyakoAi/blob/main/f5f473c4da923a5c20e0efe0477f3cc1.gif" alt="logo">
+</p>
+
 <h1 align="center">Hello World, I am Miyako</h1>
 <h3 align="center">lazy Programmer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1368359704/vector/sloth-programmer-working-on-laptop.jpg?s=612x612&w=0&k=20&c=icsryoqq8AcqKgHMw4TbVBtaZ3uZGQrD-VA_ZXlwT2g=" />
+<img align="right" alt="coding" width="300" src="https://www.pngall.com/wp-content/uploads/14/Hatsune-Miku-PNG-Image.png"/>
 
 [![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning JavaScript **https://www.w3schools.com/js/**
+- /ᐠ｡ꞈ｡ᐟ\ nyan~
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
