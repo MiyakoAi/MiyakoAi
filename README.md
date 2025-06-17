@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hello Sekai!, I am Miyako</h1>
-<h3 align="center">lazy Programmer</h3>
+<h3 align="center">Lazy Programmer</h3>
 
 <img align="right" alt="coding" width="300" src="https://www.pngall.com/wp-content/uploads/14/Hatsune-Miku-PNG-Image.png"/>
 
