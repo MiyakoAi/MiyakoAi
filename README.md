@@ -17,6 +17,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/mugniadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugniadji" height="30" width="40" /></a>
 <a href="https://instagram.com/mugniadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mugniadji" height="30" width="40" /></a>
+<br/>
+<a href="https://my-portofolio-tau-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
