@@ -11,12 +11,19 @@
 [![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=12)](https://visitcount.itsvg.in)
 
 **Hatsune Miku** Is Here!!!</br>
-/ᐠ｡ꞈ｡ᐟ\ nyan~
+Sekaaaaaiiiiii
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mugniadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugniadji" height="30" width="40" /></a>
 <a href="https://instagram.com/mugniadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mugniadji" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+<a href="https://my-portofolio-tau-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1976D2?style=for-the-badge&logo=account-circle&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
