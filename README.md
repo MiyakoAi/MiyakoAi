@@ -21,7 +21,7 @@ Sekaaaaaiiiiii
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://my-portofolio-tau-ten.vercel.app/" target="_blank">
+<a href="https://www.mugniadji.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1976D2?style=for-the-badge&logo=account-circle&logoColor=white" alt="Portfolio" />
 </a>
 </p>
