@@ -45,9 +45,9 @@ Sekaaaaaiiiiii
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p><br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyakoAi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=MiyakoAi&theme=transparent&hide_border=false&include_all_width="310"commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MiyakoAi&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyakoAi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=0)](https://visitcount.itsvg.in)
 
