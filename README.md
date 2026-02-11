@@ -6,7 +6,7 @@
 <h1 align="center">Hello Sekai!, I am みやこ!</h1>
 <h3 align="center">Lazy Backend</h3>
 
-<img align="right" alt="coding" width="350" src="Hatsune-Miku-PNG-Transparent-Picture.png"/>
+<img align="right" alt="coding" width="340" src="Hatsune-Miku-PNG-Transparent-Picture.png"/>
 
 [![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=12)](https://visitcount.itsvg.in)
 
