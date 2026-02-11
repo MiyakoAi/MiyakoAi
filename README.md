@@ -51,5 +51,3 @@ Ummhhh... and i like FLOSS
 <!-- <img align="right" alt="coding" width="300" src="Hatsune_miku_logo_v3.svg"/> -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=MiyakoAi&theme=transparent&hide_border=false)<br/> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
----
