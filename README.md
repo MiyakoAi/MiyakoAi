@@ -47,8 +47,9 @@ Ummhhh... and i like FLOSS
 </p><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyakoAi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MiyakoAi&theme=transparent&hide_border=false&include_all_width="310"commits=true&count_private=true)<br/> <!-- <img align="right" alt="coding" width="300" src="Hatsune_miku_logo_v3.svg"/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=MiyakoAi&theme=transparent&hide_border=false)<br/>
-[![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=MiyakoAi&theme=transparent&hide_border=false&include_all_width="310"commits=true&count_private=true)<br/> 
+<!-- <img align="right" alt="coding" width="300" src="Hatsune_miku_logo_v3.svg"/> -->
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=MiyakoAi&theme=transparent&hide_border=false)<br/> -->
+<!-- [![](https://visitcount.itsvg.in/api?id=MiyakoAi&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
