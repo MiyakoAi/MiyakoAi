@@ -6,7 +6,7 @@
 <h1 align="center">Hello Sekai!, I am みやこ!</h1>
 <h3 align="center">Lazy Backend</h3>
 
-<img align="right"  alt="coding" width="400" src="Hatsune-Miku-PNG-Transparent-Picture.png"/>
+<img align="right"  alt="coding" width="380" src="Hatsune-Miku-PNG-Transparent-Picture.png"/>
 
 **Hatsune Miku** Is Here!!!</br>
 let's make a Backend system with Miku! >_< </br>
